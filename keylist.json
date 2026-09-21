@@ -19,5 +19,12 @@
     "device": [],
     "max_devices": 1,
     "created": "2026-09-21T19:01:50.984912"
+  },
+  "OA8FIW0X58QF": {
+    "expiry": "2026-10-21T19:02:44.648727",
+    "active": true,
+    "device": [],
+    "max_devices": 1,
+    "created": "2026-09-21T19:02:45.507263"
   }
 }
