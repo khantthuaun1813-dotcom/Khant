@@ -12,5 +12,12 @@
     "device": [],
     "max_devices": 1,
     "created": "2026-09-21T18:51:24.267348"
+  },
+  "LQI1Y1OH7VZQ": {
+    "expiry": "2026-10-01T19:01:50.047669",
+    "active": true,
+    "device": [],
+    "max_devices": 1,
+    "created": "2026-09-21T19:01:50.984912"
   }
 }
