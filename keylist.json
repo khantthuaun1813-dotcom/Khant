@@ -8,7 +8,7 @@
   },
   "0EC8LIDE74JT": {
     "expiry": "2026-10-21T18:51:23.047611",
-    "active": true,
+    "active": false,
     "device": [],
     "max_devices": 1,
     "created": "2026-09-21T18:51:24.267348"
