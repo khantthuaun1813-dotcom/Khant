@@ -1,7 +1,7 @@
 {
   "619RTOW78KGA": {
     "expiry": "2026-10-21T17:04:28.341611",
-    "active": false,
+    "active": true,
     "device": [],
     "max_devices": 1,
     "created": "2026-09-21T17:04:28.341611"
