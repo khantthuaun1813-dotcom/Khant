@@ -12,7 +12,7 @@ export default function handler(req, res) {
     const { key, hwid, game_id } = req.body || {};
 
     // ═══════════════════════════════════════════════
-    // ⚠️ Key စာရင်း (Bot ကနေ ထည့်ပေးမယ့် Key တွေ ဒီနေရာမှာ ထည့်ပါ)
+    // ⚠️ Key စာရင်း (ဒီနေရာမှာ Key တွေ ထည့်ပါ) ⚠️
     // ═══════════════════════════════════════════════
     const validKeys = {
         "KEYAUTH-ABS2Z4V7UHLK": {
