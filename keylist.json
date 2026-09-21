@@ -36,7 +36,7 @@
   },
   "6IZE7JRKCS1L": {
     "expiry": "2026-10-21T21:00:04.001317",
-    "active": true,
+    "active": false,
     "device": [],
     "max_devices": 1,
     "created": "2026-09-21T21:00:04.682550"
