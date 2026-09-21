@@ -40,5 +40,12 @@
     "device": [],
     "max_devices": 1,
     "created": "2026-09-21T21:00:04.682550"
+  },
+  "2DEVICES": {
+    "expiry": "2026-09-24T21:29:09.961678",
+    "active": true,
+    "device": [],
+    "max_devices": 1,
+    "created": "2026-09-21T21:29:10.867111"
   }
 }
