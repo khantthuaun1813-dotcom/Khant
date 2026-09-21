@@ -1,6 +1,6 @@
 // api/telegram_bot.js
-const TELEGRAM_BOT_TOKEN = "YOUR_BOT_TOKEN_HERE";
-const TELEGRAM_ADMIN_CHAT_ID = "YOUR_CHAT_ID_HERE";
+const TELEGRAM_BOT_TOKEN = "8901818147:AAEV0i7cYP4VSTCe0zD8bgJmE8u6ickEm84";
+const TELEGRAM_ADMIN_CHAT_ID = "8925957333";
 
 export default async function handler(req, res) {
     if (req.method !== 'POST') {
