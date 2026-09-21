@@ -15,8 +15,8 @@ export default function handler(req, res) {
     // ⚠️ Key စာရင်း (Bot ကနေ ထည့်ပေးမယ့် Key တွေ ဒီနေရာမှာ ထည့်ပါ)
     // ═══════════════════════════════════════════════
     const validKeys = {
-        "KEYAUTH-MAMAKHAINGLOVER": {
-            expiry: "2026-12-31",
+        "KEYAUTH-ABS2Z4V7UHLK": {
+            expiry: "2026-10-21",
             max_devices: 1,
             devices: []
         }
