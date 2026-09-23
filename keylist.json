@@ -1,1 +1,9 @@
-{}
+{
+  "33CENRPESYS9": {
+    "expiry": "2026-09-24T11:50:10.345639",
+    "active": true,
+    "device": [],
+    "max_devices": 1,
+    "created": "2026-09-23T11:50:11.233208"
+  }
+}
