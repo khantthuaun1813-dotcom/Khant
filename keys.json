@@ -1,0 +1,11 @@
+{
+  "keys": {
+    "4aafa20c2b06236817ebb5620de2a3f981532531b2ab3699e08df76f12446238": {
+      "note": "test",
+      "expires": "2026-12-19",
+      "banned": false,
+      "max_devices": 2,
+      "devices": []
+    }
+  }
+}
