@@ -6,6 +6,11 @@
       "banned": false,
       "max_devices": 2,
       "devices": []
+    },
+    "8e207bf098ddfd94853d3556ec436ade85f9b51bf2a9095f5850322ca2ad4a58": {
+      "note": "",
+      "expires": "2026-12-19",
+      "banned": false
     }
   }
 }
